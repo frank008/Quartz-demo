@@ -1,0 +1,3 @@
+com\jobs\MyJob.class
+com\jobs\QuartzSimple.class
+com\jobs\SchedulerUtil.class
